@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "p100",
+      "libelle": "cafe",
+      "prixUnitaire": 50.5
+    },
+    {
+      "id": 2,
+      "code": "p200",
+      "libelle": "the",
+      "prixUnitaire": 50.5
+    },
+    {
+      "id": 3,
+      "code": "p300",
+      "libelle": "eee",
+      "prixUnitaire": 50.5
+    },
+    {
+      "id": 4,
+      "code": "p400",
+      "libelle": "cola",
+      "prixUnitaire": 50.5
+    },
+    {
+      "id": 5,
+      "code": "p500",
+      "libelle": "eau",
+      "prixUnitaire": 50.5
+    },
+    {
+      "id": 6,
+      "code": "p100",
+      "libelle": "jus de pommme ",
+      "prixUnitaire": 500.5
+    }
+  ]
+}
